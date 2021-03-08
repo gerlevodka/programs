@@ -8,5 +8,6 @@ qbittorrent
 steam
 video editin software
 vlc
-virualbox and KVE
+virualbox and KVM
 gimp
+
