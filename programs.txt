@@ -9,4 +9,4 @@ steam
 video editin software
 vlc
 virualbox and KVE
-
+gimp
