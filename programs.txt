@@ -9,4 +9,4 @@ video editin software
 vlc
 virualbox and KVM
 gimp
-
+git
