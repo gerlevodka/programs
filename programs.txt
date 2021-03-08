@@ -4,7 +4,6 @@ google chrome
 java
 vscodeium
 obs
-qbittorrent
 steam
 video editin software
 vlc
