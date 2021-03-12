@@ -1,12 +1,10 @@
-balena etcher
 discord
 google chrome
 java
-vscodeium
 obs
 steam
 video editin software
 vlc
 virualbox and KVM
-gimp
 git
+clang
